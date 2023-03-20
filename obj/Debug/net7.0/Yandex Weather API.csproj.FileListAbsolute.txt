@@ -1,0 +1,23 @@
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/Yandex Weather API
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/Yandex Weather API.deps.json
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/Yandex Weather API.runtimeconfig.json
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/Yandex Weather API.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/Yandex Weather API.pdb
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/Yandex Weather API.csproj.AssemblyReference.cache
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/Yandex Weather API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/Yandex Weather API.AssemblyInfoInputs.cache
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/Yandex Weather API.AssemblyInfo.cs
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/Yandex Weather API.csproj.CoreCompileInputs.cache
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/Yandex Weather API.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/refint/Yandex Weather API.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/Yandex Weather API.pdb
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/Yandex Weather API.genruntimeconfig.cache
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/ref/Yandex Weather API.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/obj/Debug/net7.0/Yandex Weather API.csproj.CopyComplete
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/System.Data.SqlClient.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/renatnigamadzanov/Documents/Rider Projects/Yandex Weather API/Yandex Weather API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
