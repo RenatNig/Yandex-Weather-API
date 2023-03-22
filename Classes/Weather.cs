@@ -47,12 +47,13 @@ public class Weather
                 await InsertIntoDatabase(factSection.temp.ToString(), factSection.feels_like.ToString(), (int)factSection.humidity, factSection.wind_dir.ToString(), (double)factSection.wind_speed, (double)factSection.wind_gust);
 
                 Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine("Обновим сводку через {0} мин. Введите q для выхода.", minutesTimeCheck);
+                Console.WriteLine("Обновим сводку через {0} мин.", minutesTimeCheck);
 
                 var task = Task.Delay(minutesTimeCheck * 60000);
                 
                 while (!task.IsCompleted)
                 {
+                    Console.WriteLine("Ожидание... Введите q для выхода, Enter для продолжения");
                     string input = Console.ReadLine();
                     if (input == "q")
                         Environment.Exit(0);
