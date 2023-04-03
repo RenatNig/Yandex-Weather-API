@@ -11,5 +11,5 @@
 - Делает запись в базу **SQL Server**
 
 <h3 align="center">
-  Для настройки используется файл <em>appsettings.json</em>
+  Для настройки используется файл <code>appsettings.json</code>
 </h3> 
